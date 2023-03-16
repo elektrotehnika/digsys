@@ -5,7 +5,7 @@
 
 ## Обавештења
 
-Час предавања у нерадној суботи 18. марта 2023. године неће бити одржан. Уместо њега, биће одржан час у суботу 25. марта 2023. године. Час у понедељак 20. марта биће одржан по распореду часова.
+Час предавања у радној суботи 18. марта 2023. године неће бити одржан. Уместо њега, биће одржан час у суботу 25. марта 2023. године. Час у понедељак 20. марта биће одржан по распореду часова.
 
 <!--
 
@@ -28,138 +28,48 @@
 
 </details>
 
+-->
+
 ## Настава
 
 ### Слајдови
 
 <details markdown='block'>
 <summary>Предавања</summary>
-* DigEl слајдови 1: [EE141 s10l1][EE141_s10l1] и [EE141 s12l1][EE141_s12l1] и [EE141 f12l1][EE141_f12l1]
-* DigEl слајдови 2: [EE141 s10l2][EE141_s10l2] и [EE141 s12l2][EE141_s12l2] и [EE141 f12l2][EE141_f12l2]
-* DigEl слајдови 3: [EE141 s10l3][EE141_s10l3] и [EE141 s12l3][EE141_s12l3] и [EE141 f12l3][EE141_f12l3]
-* DigEl слајдови 4: [EE141 s10l4][EE141_s10l4] и [EE141 s12l4][EE141_s12l4] и [EE141 f12l4][EE141_f12l4]
-* DigEl слајдови 5: [EE141 s10l5][EE141_s10l5] и [EE141 s12l5][EE141_s12l5] и [EE141 f12l5][EE141_f12l5]
-* DigEl слајдови 6: [EE141 s10l6][EE141_s10l6] и [EE141 s12l6][EE141_s12l6] и [EE141 f12l6][EE141_f12l6]
-* DigEl слајдови 7: [EE141 s10l7][EE141_s10l7] и [EE141 s12l7][EE141_s12l7] и [EE141 f12l7][EE141_f12l7]
-* DigEl слајдови 8: [EE141 s10l8][EE141_s10l8] и [EE141 s12l8][EE141_s12l8] и [EE141 f12l8][EE141_f12l8]
-* DigEl слајдови 9: [EE141 s10l9][EE141_s10l9] и [EE141 s12l9][EE141_s12l9] и [EE141 f12l9][EE141_f12l9]
-* DigEl слајдови 10: **први колоквијум** и [EE141 s12l10][EE141_s12l10] и [EE141 f12l10][EE141_f12l10]
-* DigEl слајдови 11: [EE141 s10l11][EE141_s10l11] и [EE141 s12l11][EE141_s12l11] и [EE141 f12l11][EE141_f12l11]
-* DigEl слајдови 12: [EE141 s10l12][EE141_s10l12] и [EE141 s12l12][EE141_s12l12] и [EE141 f12l12][EE141_f12l12]
-* DigEl слајдови 13: [EE141 s10l13][EE141_s10l13] и [EE141 s12l13][EE141_s12l13] и [EE141 f12l13][EE141_f12l13]
-* DigEl слајдови 14: [EE141 s10l14][EE141_s10l14] и [EE141 s12l14][EE141_s12l14] и [EE141 f12l14][EE141_f12l14]
-* DigEl слајдови 15: [EE141 s10l15][EE141_s10l15] и [EE141 s12l15][EE141_s12l15] и [EE141 f12l15][EE141_f12l15]
-* DigEl слајдови 16: [EE141 s10l16][EE141_s10l16] и [EE141 s12l16][EE141_s12l16] и [EE141 f12l16][EE141_f12l16]
-* DigEl слајдови 17: [EE141 s10l17][EE141_s10l17] и [EE141 s12l17][EE141_s12l17] и [EE141 f12l17][EE141_f12l17]
-* DigEl слајдови 18: [EE141 s10l18][EE141_s10l18] и [EE141 s12l18][EE141_s12l18] и [EE141 f12l18][EE141_f12l18]
-* DigEl слајдови 19: [EE141 s10l19][EE141_s10l19] и [EE141 s12l19][EE141_s12l19] и [EE141 f12l19][EE141_f12l19]
-* DigEl слајдови 20: [EE141 s10l20][EE141_s10l20] и [EE141 s12l20][EE141_s12l20] и [EE141 f12l20][EE141_f12l20]
-* DigEl слајдови 21: **други колоквијум** и [EE141 s12l21][EE141_s12l21]и [EE141 f12l21][EE141_f12l21]
-* DigEl слајдови 22: [EE141 s10l22][EE141_s10l22] и [EE141 s12l22][EE141_s12l22] и [EE141 f12l22][EE141_f12l22]
-* DigEl слајдови 23: [EE141 s10l23][EE141_s10l23] и [EE141 s12l23][EE141_s12l23] и [EE141 f12l23][EE141_f12l23]
-* DigEl слајдови 24: [EE141 s10l24][EE141_s10l24] и [EE141 s12l24][EE141_s12l24] и [EE141 f12l24][EE141_f12l24]
-* DigEl слајдови 25: [EE141 s10l25][EE141_s10l25] и [EE141 f12l25][EE141_f12l25]
-* DigEl слајдови 26: [EE141 f12l26][EE141_f12l26]
-* DigEl слајдови 27: [EE141 f12l27][EE141_f12l27]
-* DigEl слајдови 28: [EE141 s10l28][EE141_s10l28]
+* DigSys слајдови 1: [EECS151 fa21l1][EECS151_fa21l1-1up]
+* DigSys слајдови 2: [EECS151 fa21l2][EECS151_fa21l2-1up]
+* DigSys слајдови 3: [EECS151 fa21l3][EECS151_fa21l3-1up]
+* DigSys слајдови 4: [EECS151 fa21l4][EECS151_fa21l4-1up]
+* DigSys слајдови 5: [EECS151 fa21l5][EECS151_fa21l5-1up]
 </details>
 
-[EE141_s10l1]: http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_s10/Lectures/Lecture1-Intro.pdf
-[EE141_s10l2]: http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_s10/Lectures/Lecture2-Metrics.pdf
-[EE141_s10l3]: http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_s10/Lectures/Lecture3-DesignRules.pdf
-[EE141_s10l4]: http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_s10/Lectures/Lecture4-SwitchLogic.pdf
-[EE141_s10l5]: http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_s10/Lectures/Lecture5-SwitchLogic%20Cntd.pdf
-[EE141_s10l6]: http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_s10/Lectures/Lecture6-ComplexLogic.pdf
-[EE141_s10l7]: http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_s10/Lectures/Lecture7-Wires.pdf
-[EE141_s10l8]: http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_s10/Lectures/Lecture8-Wires-Transistors.pdf
-[EE141_s10l9]: http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_s10/Lectures/Lecture9-Transistors.pdf
-[EE141_s10l11]: http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_s10/Lectures/Lecture11-Inverter.pdf
-[EE141_s10l12]: http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_s10/Lectures/Lecture12-InverterDelay+Energy.pdf
-[EE141_s10l13]: http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_s10/Lectures/Lecture13-ComplexCMOS.pdf
-[EE141_s10l14]: http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_s10/Lectures/Lecture14-ComplexCMOSCntd.pdf
-[EE141_s10l15]: http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_s10/Lectures/Lecture15-Pass+Ratioed.pdf
-[EE141_s10l16]: http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_s10/Lectures/Lecture16-Ratioed+Dynamic.pdf
-[EE141_s10l17]: http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_s10/Lectures/Lecture17-Domino+Registers.pdf
-[EE141_s10l18]: http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_s10/Lectures/Lecture18-Registers.pdf
-[EE141_s10l19]: http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_s10/Lectures/Lecture19-Timing.pdf
-[EE141_s10l20]: http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_s10/Lectures/Lecture20-Scaling.pdf
-[EE141_s10l22]: http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_s10/Lectures/Lecture22-Energy.pdf
-[EE141_s10l23]: http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_s10/Lectures/Lecture23-Adders.pdf
-[EE141_s10l24]: http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_s10/Lectures/Lecture24-Multipliers.pdf
-[EE141_s10l25]: http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_s10/Lectures/Lecture25-Memory.pdf
-[EE141_s10l28]: http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_s10/Lectures/Lecture28-Perspectives.pdf
-
-[EE141_s12l1]: https://www.coursehero.com/file/6930410/Lecture1-Intro
-[EE141_s12l2]: https://www.coursehero.com/file/6930411/Lecture2-Metrics-HO2
-[EE141_s12l3]: https://www.coursehero.com/file/6930412/Lecture3-DesignRules-HO2
-[EE141_s12l4]: https://www.coursehero.com/file/6930413/Lecture4-DRLogic-HO2
-[EE141_s12l5]: https://www.coursehero.com/file/6930414/Lecture5-SwitchLogic-HO2
-[EE141_s12l6]: https://www.coursehero.com/file/6930415/Lecture6-ComplexLogic-HO2
-[EE141_s12l7]: https://www.coursehero.com/file/6930416/Lecture7-Wires-HO2
-[EE141_s12l8]: https://www.coursehero.com/file/6930417/Lecture8-WiresLogic
-[EE141_s12l9]: https://www.coursehero.com/file/6930418/Lecture9-Transistors-HO2
-[EE141_s12l10]: https://www.coursehero.com/file/6930419/Lecture10-Inverter-HO2
-[EE141_s12l11]: https://www.coursehero.com/file/6930420/Lecture11-InverterDelayEnergy-HO2
-[EE141_s12l12]: https://www.coursehero.com/file/6930421/Lecture12-Adders
-[EE141_s12l13]: https://www.coursehero.com/file/6930422/Lecture13-Multipliers-HO2
-[EE141_s12l14]: https://www.coursehero.com/file/6930423/Lecture14-Memory-HO2
-[EE141_s12l15]: https://www.coursehero.com/file/6930424/Lecture15-InverterDelayEnergy-HO2
-[EE141_s12l16]: https://www.coursehero.com/file/6930425/Lecture16-ComplexCMOS-HO2
-[EE141_s12l17]: https://www.coursehero.com/file/6930426/Lecture17-RatioedPass
-[EE141_s12l18]: https://www.coursehero.com/file/6930427/Lecture18-Dynamic-HO2
-[EE141_s12l19]: https://www.coursehero.com/file/6930428/Lecture19-Layout-HO2
-[EE141_s12l20]: https://www.coursehero.com/file/6930429/Lecture20-Sequential-HO2
-[EE141_s12l21]: https://www.coursehero.com/file/6930430/Lecture21-Timing-HO2
-[EE141_s12l22]: https://www.coursehero.com/file/6930431/Lecture22-TimingClocks-HO2
-[EE141_s12l23]: https://www.coursehero.com/file/6930432/Lecture23-Clocks-Power-HO2
-[EE141_s12l24]: https://www.coursehero.com/file/6930433/Lecture24-Scaling-and-Energy-HO2
-
-[EE141_f12l1]: http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_f12/Lectures/Lecture1-Intro_2up.pdf
-[EE141_f12l2]: http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_f12/Lectures/Lecture2-IC-Basics_2up.pdf
-[EE141_f12l3]: http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_f12/Lectures/Lecture3-Inverter_Metrics_2up.pdf
-[EE141_f12l4]: http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_f12/Lectures/Lecture4-Gates_Design_Rules_2up.pdf
-[EE141_f12l5]: http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_f12/Lectures/Lecture5-Memory_2up.pdf
-[EE141_f12l6]: http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_f12/Lectures/Lecture6-Inverter_Delay_Opt_2up.pdf
-[EE141_f12l7]: http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_f12/Lectures/Lecture7-LE_2up.pdf
-[EE141_f12l8]: http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_f12/Lectures/Lecture8-Decoder_LE_2up.pdf
-[EE141_f12l9]: http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_f12/Lectures/Lecture9-MOS_Transistor_2up.pdf
-[EE141_f12l10]: http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_f12/Lectures/Lecture10-VTC_2up.pdf
-[EE141_f12l11]: http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_f12/Lectures/Lecture11-MOS_Cap_Delay_2up.pdf
-[EE141_f12l12]: http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_f12/Lectures/Lecture12-Delay_Power_2up.pdf
-[EE141_f12l13]: http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_f12/Lectures/Lecture13-CMOS_Logic_2up.pdf
-[EE141_f12l14]: http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_f12/Lectures/Lecture14-Wires_2up.pdf
-[EE141_f12l15]: http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_f12/Lectures/Lecture15-SRAM_Design_2up.pdf
-[EE141_f12l16]: http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_f12/Lectures/Lecture16-Power_Revisited_2up.pdf
-[EE141_f12l17]: http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_f12/Lectures/Lecture17-Scaling_2up.pdf
-[EE141_f12l18]: http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_f12/Lectures/Lecture18-Ratio_PTL_2up.pdf
-[EE141_f12l19]: http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_f12/Lectures/Lecture19-Dynamic_2up.pdf
-[EE141_f12l20]: http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_f12/Lectures/Lecture20-Adders_2up.pdf
-[EE141_f12l21]: http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_f12/Lectures/Lecture21-Multipliers_2up.pdf
-[EE141_f12l22]: http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_f12/Lectures/Lecture22-Domino_2up.pdf
-[EE141_f12l23]: http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_f12/Lectures/Lecture23-Flops_Latches_2up.pdf
-[EE141_f12l24]: http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_f12/Lectures/Lecture24-Timing_2up.pdf
-[EE141_f12l25]: http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_f12/Lectures/Lecture25-Clock_2up.pdf
-[EE141_f12l26]: http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_f12/Lectures/Lecture26-IO_Power_Dist_2up.pdf
-[EE141_f12l27]: http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_f12/Lectures/Lecture27-Flash_DRAM_2up.pdf
+[EECS151_fa21l1-1up]: https://inst.eecs.berkeley.edu/~eecs151/fa21/files/lectures/Lecture1-Intro-1up.pdf
+[EECS151_fa21l2-1up]: https://inst.eecs.berkeley.edu/~eecs151/fa21/files/lectures/Lecture2-Design-1up.pdf
+[EECS151_fa21l3-1up]: https://inst.eecs.berkeley.edu/~eecs151/fa21/files/lectures/Lecture3-VerilogI-1up.pdf
+[EECS151_fa21l4-1up]: https://inst.eecs.berkeley.edu/~eecs151/fa21/files/lectures/Lecture4-VerilogII-1up.pdf
+[EECS151_fa21l5-1up]: https://inst.eecs.berkeley.edu/~eecs151/fa21/files/lectures/Lecture5-VerilogIII-1up.pdf
 
 ### Корисне видео лекције
 
 На енглеском:
-* UCSD: [ECE 165 - пролеће 2021.](https://www.youtube.com/playlist?list=PLgjAdxoGjYZHrcfBj18dRd04IkD4zK-g7)
-* BIU: [83-313 - јесен 2020.](https://www.youtube.com/playlist?list=PLZU5hLL_713yF0Lkwjj9O3ttVIuhPV-me)
-* UC Berkeley: [EE141 - пролеће 2012.](https://www.youtube.com/playlist?list=PLFB6AB660B2B2F7A7)
-* UC Berkeley: [EE141](http://www.infocobuild.com/education/audio-video-courses/electronics/ee141-berkeley.html) - [јесен 2011.](http://www.infocobuild.com/education/audio-video-courses/electronics/ee141-fall2011-berkeley.html), [пролеће 2011.](http://www.infocobuild.com/education/audio-video-courses/electronics/ee141-spring2011-berkeley.html), [јесен 2010.](http://www.infocobuild.com/education/audio-video-courses/electronics/ee141-fall2010-berkeley.html), [пролеће 2010.](http://www.infocobuild.com/education/audio-video-courses/electronics/ee141-spring2010-berkeley.html)
-* UC Berkeley: [EE141 - пролеће 2008.](https://www.youtube.com/playlist?list=PLOTpKcFOwiQSP6tqPjR7xXylPXTpiIOGD)
+* UC Berkeley: EECS151 - [јесен 2019.](https://www.youtube.com/playlist?list=PLW6lmkTQ3FQVyMbSHpXyaGK9GvDEsr0mm), [пролеће 2020.](https://www.youtube.com/playlist?list=PLW6lmkTQ3FQXQjShQivjgzkQ7pNLnmo-z), [пролеће 2022.](https://www.youtube.com/playlist?list=PLkFD6_40KJIxrKaukIqIZMrtSRf6hNdPp) и [јесен 2022.](https://www.youtube.com/playlist?list=PLkFD6_40KJIzF1rzQ5Sp97Kv7wHhth7YK)
 
 ### Остали корисни курсеви
 
 На енглеском:
-* [MIT 6.374](https://ocw.mit.edu/courses/6-374-analysis-and-design-of-digital-integrated-circuits-fall-2003)
-* [Stanford EE371](https://web.stanford.edu/class/archive/ee/ee371/ee371.1066)
+* [Berkeley EECS251](https://inst.eecs.berkeley.edu/~eecs251b) - [пролеће 2022.](https://inst.eecs.berkeley.edu/~eecs251b/sp22) и [пролеће 2023.](https://inst.eecs.berkeley.edu/~eecs251b/sp23)
+
+### Корисни
+
+http://www.asic-world.com/verilog
+
+<!--
 
 На српском:
 * [ЕТФ Београд - Основи дигиталне електронике](http://tnt.etf.bg.ac.rs/~oe2ode)
 * [ЕТФ Београд - Дигитална електроника](http://tnt.etf.bg.ac.rs/~oe3de)
+
+-->
 
 ## Литература
 
@@ -169,6 +79,11 @@
 Помоћни уџбеници:
 * [Neil Weste](https://en.wikipedia.org/wiki/Neil_Weste), David Harris, [CMOS VLSI Design: A Circuits and Systems Perspective](https://pages.hmc.edu/harris/cmosvlsi/4e), [4th edition](http://fa.ee.sut.ac.ir/Downloads/AcademicStaff/24/Courses/11/CMOS VLSI Design A Circuits and Systems Perspective, 4th Edition (2011).pdf)
 * David Harris, Sarah L. Harris, [Digital Design and Computer Architecture](http://www.csit-sun.pub.ro/courses/cn2/Digital_design_book/Digital%20Design%20and%20Computer%20Architecture.pdf) [2nd edition](https://raw.githubusercontent.com/stevemac321/pdfs/master/Digital%20Design%20and%20Computer%20Architecture%20(2nd%20Ed)(gnv64).pdf)
+
+Корисне странице:
+[ASIC-World](http://www.asic-world.com/verilog)
+
+<!--
 
 ## Домаћи задаци
 
@@ -289,6 +204,10 @@
 Испит се полаже у виду завршног пројекта који се ради појединачно или у пару и који носи највише 55 поена.
 
 -->
+
+### Испит
+
+Испит се полаже у виду завршног пројекта.
 
 ### Оцењивање
 
