@@ -59,33 +59,30 @@
 На енглеском:
 * [Berkeley EECS251](https://inst.eecs.berkeley.edu/~eecs251b) - [пролеће 2022.](https://inst.eecs.berkeley.edu/~eecs251b/sp22) и [пролеће 2023.](https://inst.eecs.berkeley.edu/~eecs251b/sp23)
 
-### Корисни
-
-http://www.asic-world.com/verilog
-
 <!--
-
 На српском:
 * [ЕТФ Београд - Основи дигиталне електронике](http://tnt.etf.bg.ac.rs/~oe2ode)
 * [ЕТФ Београд - Дигитална електроника](http://tnt.etf.bg.ac.rs/~oe3de)
-
 -->
 
 ## Литература
 
-Основни уџбеник (недостају поглавља 8, (9,) 11 и 12):
+Основни учбеник:
+* David Harris, Sarah L. Harris, [Digital Design and Computer Architecture](http://www.csit-sun.pub.ro/courses/cn2/Digital_design_book/Digital%20Design%20and%20Computer%20Architecture.pdf) [2nd edition](https://raw.githubusercontent.com/stevemac321/pdfs/master/Digital%20Design%20and%20Computer%20Architecture%20(2nd%20Ed)(gnv64).pdf)
+
+Препоручени уџбеник (недостају поглавља 8, (9,) 11 и 12):
 * [Jan Rabaey](https://en.wikipedia.org/wiki/Jan_M._Rabaey), [Anantha Chandrakasan](https://en.wikipedia.org/wiki/Anantha_P._Chandrakasan), Borivoje Nikolić, [Digital Integrated Circuits: A Design Perspective](https://booksonweb.files.wordpress.com/2011/11/digital-integrated-circuits-a-design-perspective-by-jan-m-rabaey.pdf), [2nd edition](https://evlsi.files.wordpress.com/2014/11/rabaey-digital-integrated-circuits.pdf)
 
 Помоћни уџбеници:
 * [Neil Weste](https://en.wikipedia.org/wiki/Neil_Weste), David Harris, [CMOS VLSI Design: A Circuits and Systems Perspective](https://pages.hmc.edu/harris/cmosvlsi/4e), [4th edition](http://fa.ee.sut.ac.ir/Downloads/AcademicStaff/24/Courses/11/CMOS VLSI Design A Circuits and Systems Perspective, 4th Edition (2011).pdf)
-* David Harris, Sarah L. Harris, [Digital Design and Computer Architecture](http://www.csit-sun.pub.ro/courses/cn2/Digital_design_book/Digital%20Design%20and%20Computer%20Architecture.pdf) [2nd edition](https://raw.githubusercontent.com/stevemac321/pdfs/master/Digital%20Design%20and%20Computer%20Architecture%20(2nd%20Ed)(gnv64).pdf)
 
 Корисне странице:
-[ASIC-World](http://www.asic-world.com/verilog)
-
-<!--
+* [ASIC-World](http://www.asic-world.com/verilog)
+* [NAND-LAND](https://nandland.com/learn-verilog)
 
 ## Домаћи задаци
+
+<!--
 
 * [нулти домаћи задатак](./dz/dz0.md)
 * [први домаћи задатак](./dz/dz1.md)
