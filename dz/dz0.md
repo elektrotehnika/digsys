@@ -4,7 +4,7 @@
 
 Инсталирати и покренути:
 * [GTKWave](https://gtkwave.sourceforge.net)
-* ICARUS Verilog
+* [Icarus Verilog](http://iverilog.icarus.com)
 * [Verilator](https://www.veripool.org/verilator)
 
 Такође инсталирати:
