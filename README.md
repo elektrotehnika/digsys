@@ -41,8 +41,8 @@
 * DigSys слајдови 5: [EECS151 fa21l5][EECS151_fa21l5-1up]
 * DigSys слајдови 6: [EECS151 fa21l6][EECS151_fa21l6-1up]
 * DigSys слајдови 7: [EECS151 fa21l7][EECS151_fa21l7-1up]
-* DigSys слајдови 8: [EECS151 fa21l8][EECS151_fa21l8-1up]
-* DigSys слајдови 9: [EECS151 fa21l9][EECS151_fa21l9-1up]
+* DigSys слајдови 8: ~~[EECS151 fa21l8][EECS151_fa21l8-1up]~~
+* DigSys слајдови 9: ~~[EECS151 fa21l9][EECS151_fa21l9-1up]~~
 * DigSys слајдови 10: [EECS151 fa21l10][EECS151_fa21l10-1up]
 </details>
 
@@ -82,7 +82,7 @@
 * [Jan Rabaey](https://en.wikipedia.org/wiki/Jan_M._Rabaey), [Anantha Chandrakasan](https://en.wikipedia.org/wiki/Anantha_P._Chandrakasan), Borivoje Nikolić, [Digital Integrated Circuits: A Design Perspective](https://booksonweb.files.wordpress.com/2011/11/digital-integrated-circuits-a-design-perspective-by-jan-m-rabaey.pdf), [2nd edition](https://evlsi.files.wordpress.com/2014/11/rabaey-digital-integrated-circuits.pdf)
 
 Помоћни уџбеници:
-* Michael D. Ciletti, Advanced Digital Design with the Verilog HDL, [Pearson Education](https://www.pearson.com/en-us/subject-catalog/p/advanced-digital-design-with-the-verilog-hdl/P200000003439), 2nd edition
+* Michael D. Ciletti, [Advanced Digital Design with the Verilog HDL](https://archive.org/details/advanceddigitald00cile), 2nd edition, [Pearson Education](https://www.pearson.com/en-us/subject-catalog/p/advanced-digital-design-with-the-verilog-hdl/P200000003439)
 * [Neil Weste](https://en.wikipedia.org/wiki/Neil_Weste), David Harris, [CMOS VLSI Design: A Circuits and Systems Perspective](https://pages.hmc.edu/harris/cmosvlsi/4e), [4th edition](http://fa.ee.sut.ac.ir/Downloads/AcademicStaff/24/Courses/11/CMOS VLSI Design A Circuits and Systems Perspective, 4th Edition (2011).pdf)
 
 Корисне странице:
@@ -95,13 +95,14 @@ Verilog:
 * [Verilog: always@ блокови][always@ blocks]
 * [Коначне машине стања (КМС) у Verilog-у][FSMs in Verilog]
 * [Ready-Valid сучеља][Ready-Valid Interfaces]
-* [IEEE 1364-2005 Verilog HDL стандард][https://ieeexplore.ieee.org/document/1620780]
+* [IEEE 1364-2005 Verilog HDL стандард][IEEE Std 1364-2005]
 
 [Verilog Primer Slides]: https://inst.eecs.berkeley.edu/~eecs151/fa22/files/verilog/Verilog_Primer_Slides.pdf
 [wire vs reg]: https://inst.eecs.berkeley.edu/~eecs151/fa22/files/verilog/wire_vs_reg.pdf
 [always@ blocks]: https://inst.eecs.berkeley.edu/~eecs151/fa22/files/verilog/always_at_blocks.pdf
 [FSMs in Verilog]: https://inst.eecs.berkeley.edu/~eecs151/fa22/files/verilog/verilog_fsm.pdf
 [Ready-Valid Interfaces]: https://inst.eecs.berkeley.edu/~eecs151/fa22/files/verilog/ready_valid_interface.pdf
+[IEEE Std 1364-2005]: https://ieeexplore.ieee.org/document/1620780
 
 ## Симулатори
 

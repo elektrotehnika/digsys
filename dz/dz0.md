@@ -8,4 +8,5 @@
 * [Verilator](https://www.veripool.org/verilator)
 
 Такође инсталирати:
+* [ModelSim-Intel® FPGAs Standard Edition](https://www.intel.com/content/www/us/en/software-kit/750666)
 * [Xilinx Vivado](https://www.xilinx.com/support/download.html) -- неопходна регистрација
