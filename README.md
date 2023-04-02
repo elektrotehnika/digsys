@@ -78,6 +78,21 @@
 * [ASIC-World](http://www.asic-world.com/verilog)
 * [NAND-LAND](https://nandland.com/learn-verilog)
 
+Verilog:
+* [Verilog буквар][Verilog Primer Slides]
+*
+*
+*
+*
+
+[Verilog Primer Slides]: https://inst.eecs.berkeley.edu/~eecs151/fa22/files/verilog/Verilog_Primer_Slides.pdf
+[wire vs reg]: https://inst.eecs.berkeley.edu/~eecs151/fa22/files/verilog/wire_vs_reg.pdf
+[always@ blocks]: https://inst.eecs.berkeley.edu/~eecs151/fa22/files/verilog/always_at_blocks.pdf
+[FSMs in Verilog]: https://inst.eecs.berkeley.edu/~eecs151/fa22/files/verilog/verilog_fsm.pdf
+[Ready-Valid Interfaces]: https://inst.eecs.berkeley.edu/~eecs151/fa22/files/verilog/ready_valid_interface.pdf
+
+
+
 ## Симулатори
 
 Интернет симулатори:
