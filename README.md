@@ -7,9 +7,9 @@
 
 Због обавеза наставника у вези са комисијом за акредитацију, часови наставе у понедељак 3. априла ће уместо у 14:15 како је предвиђено распоредом часова поново почети у 15:15, као и недељу дана раније.
 
-<!--
+Веома користан Intel-ов дводневни (деветочасовни) интернет курс [Verilog HDL Advanced](https://learning.intel.com/Developer/learn/course/external/view/classroom/861/verilog-hdl-advanced) биће одржан у среду 26. и четвртак 27. априла 2023. године. Препоручује се свим студентима.
 
-Веома користан [вебинар](https://efabless.zoom.us/webinar/register/WN_JbhyztppRbaARrFjjCECsA) за коришћење Xschem-а и израду пројеката из дигиталне електронике генерално биће одржан у четвртак 9. фебруара од 18 часова. Препоручује се свим студентима.
+<!--
 
 <details markdown='block'>
 <summary>Претходна обавештења</summary>
@@ -39,6 +39,11 @@
 * DigSys слајдови 3: [EECS151 fa21l3][EECS151_fa21l3-1up]
 * DigSys слајдови 4: [EECS151 fa21l4][EECS151_fa21l4-1up]
 * DigSys слајдови 5: [EECS151 fa21l5][EECS151_fa21l5-1up]
+* DigSys слајдови 6: [EECS151 fa21l6][EECS151_fa21l6-1up]
+* DigSys слајдови 7: [EECS151 fa21l7][EECS151_fa21l7-1up]
+* DigSys слајдови 8: [EECS151 fa21l8][EECS151_fa21l8-1up]
+* DigSys слајдови 9: [EECS151 fa21l9][EECS151_fa21l9-1up]
+* DigSys слајдови 10: [EECS151 fa21l10][EECS151_fa21l10-1up]
 </details>
 
 [EECS151_fa21l1-1up]: https://inst.eecs.berkeley.edu/~eecs151/fa21/files/lectures/Lecture1-Intro-1up.pdf
@@ -46,6 +51,11 @@
 [EECS151_fa21l3-1up]: https://inst.eecs.berkeley.edu/~eecs151/fa21/files/lectures/Lecture3-VerilogI-1up.pdf
 [EECS151_fa21l4-1up]: https://inst.eecs.berkeley.edu/~eecs151/fa21/files/lectures/Lecture4-VerilogII-1up.pdf
 [EECS151_fa21l5-1up]: https://inst.eecs.berkeley.edu/~eecs151/fa21/files/lectures/Lecture5-VerilogIII-1up.pdf
+[EECS151_fa21l6-1up]: https://inst.eecs.berkeley.edu/~eecs151/fa21/files/lectures/Lecture6-CL-1up.pdf
+[EECS151_fa21l7-1up]: https://inst.eecs.berkeley.edu/~eecs151/fa21/files/lectures/Lecture7-FSMs-1up.pdf
+[EECS151_fa21l8-1up]: https://inst.eecs.berkeley.edu/~eecs151/fa21/files/lectures/Lecture8-RISC-V-1up.pdf
+[EECS151_fa21l9-1up]: https://inst.eecs.berkeley.edu/~eecs151/fa21/files/lectures/Lecture9-Pipelining-1up.pdf
+[EECS151_fa21l10-1up]: https://inst.eecs.berkeley.edu/~eecs151/fa21/files/lectures/Lecture10-PipeliningFPGA-1up.pdf
 
 ### Корисне видео лекције
 
@@ -72,6 +82,7 @@
 * [Jan Rabaey](https://en.wikipedia.org/wiki/Jan_M._Rabaey), [Anantha Chandrakasan](https://en.wikipedia.org/wiki/Anantha_P._Chandrakasan), Borivoje Nikolić, [Digital Integrated Circuits: A Design Perspective](https://booksonweb.files.wordpress.com/2011/11/digital-integrated-circuits-a-design-perspective-by-jan-m-rabaey.pdf), [2nd edition](https://evlsi.files.wordpress.com/2014/11/rabaey-digital-integrated-circuits.pdf)
 
 Помоћни уџбеници:
+* Michael D. Ciletti, Advanced Digital Design with the Verilog HDL, [Pearson Education](https://www.pearson.com/en-us/subject-catalog/p/advanced-digital-design-with-the-verilog-hdl/P200000003439), 2nd edition
 * [Neil Weste](https://en.wikipedia.org/wiki/Neil_Weste), David Harris, [CMOS VLSI Design: A Circuits and Systems Perspective](https://pages.hmc.edu/harris/cmosvlsi/4e), [4th edition](http://fa.ee.sut.ac.ir/Downloads/AcademicStaff/24/Courses/11/CMOS VLSI Design A Circuits and Systems Perspective, 4th Edition (2011).pdf)
 
 Корисне странице:
@@ -80,18 +91,17 @@
 
 Verilog:
 * [Verilog буквар][Verilog Primer Slides]
-*
-*
-*
-*
+* [Verilog: wire vs reg][wire vs reg]
+* [Verilog: always@ блокови][always@ blocks]
+* [Коначне машине стања (КМС) у Verilog-у][FSMs in Verilog]
+* [Ready-Valid сучеља][Ready-Valid Interfaces]
+* [IEEE 1364-2005 Verilog HDL стандард][https://ieeexplore.ieee.org/document/1620780]
 
 [Verilog Primer Slides]: https://inst.eecs.berkeley.edu/~eecs151/fa22/files/verilog/Verilog_Primer_Slides.pdf
 [wire vs reg]: https://inst.eecs.berkeley.edu/~eecs151/fa22/files/verilog/wire_vs_reg.pdf
 [always@ blocks]: https://inst.eecs.berkeley.edu/~eecs151/fa22/files/verilog/always_at_blocks.pdf
 [FSMs in Verilog]: https://inst.eecs.berkeley.edu/~eecs151/fa22/files/verilog/verilog_fsm.pdf
 [Ready-Valid Interfaces]: https://inst.eecs.berkeley.edu/~eecs151/fa22/files/verilog/ready_valid_interface.pdf
-
-
 
 ## Симулатори
 
