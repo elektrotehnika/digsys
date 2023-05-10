@@ -5,7 +5,7 @@
 
 ## Обавештења
 
-Због обавеза наставника у вези са комисијом за акредитацију, часови наставе у понедељак 10. априла ће уместо у 14:15 како је предвиђено распоредом часова поново почети у 15:15, као и недељу дана раније.
+Часови наставе у понедељак 15. маја 2023. године неће бити одржани.
 
 Веома користан Intel-ов дводневни (деветочасовни) интернет курс [Verilog HDL Advanced](https://learning.intel.com/Developer/learn/course/external/view/classroom/861/verilog-hdl-advanced) биће одржан у среду 26. и четвртак 27. априла 2023. године. Препоручује се свим студентима.
 
@@ -61,12 +61,17 @@
 
 На енглеском:
 * UC Berkeley: EECS151 - [јесен 2019.](https://www.youtube.com/playlist?list=PLW6lmkTQ3FQVyMbSHpXyaGK9GvDEsr0mm), [пролеће 2020.](https://www.youtube.com/playlist?list=PLW6lmkTQ3FQXQjShQivjgzkQ7pNLnmo-z), [пролеће 2022.](https://www.youtube.com/playlist?list=PLkFD6_40KJIxrKaukIqIZMrtSRf6hNdPp) и [јесен 2022.](https://www.youtube.com/playlist?list=PLkFD6_40KJIzF1rzQ5Sp97Kv7wHhth7YK)
+* BIU: [83-612](https://www.youtube.com/playlist?list=PLZU5hLL_713x0_AV_rVbay0pWmED7992G)
 
 ### Остали корисни курсеви
 На енглеском:
 * [Berkeley EECS241](https://inst.eecs.berkeley.edu/~ee241b) - [пролеће 2020.](https://inst.eecs.berkeley.edu/~ee241b/sp20) и [пролеће 2021.](https://inst.eecs.berkeley.edu/~ee241b/sp21)
 * [Berkeley EECS251](https://inst.eecs.berkeley.edu/~eecs251b) - [пролеће 2022.](https://inst.eecs.berkeley.edu/~eecs251b/sp22) и [пролеће 2023.](https://inst.eecs.berkeley.edu/~eecs251b/sp23)
-* BIU: [83-612](https://www.youtube.com/playlist?list=PLZU5hLL_713x0_AV_rVbay0pWmED7992G)
+
+
+Види додај и ове швајцарце...
+https://safari.ethz.ch/digitaltechnik/spring2021/doku.php
+
 
 На српском:
 * [ЕТФ Београд - Пројектовање интегрисаних кола](http://tnt.etf.bg.ac.rs/~oe3upk)
@@ -105,6 +110,21 @@ Verilog:
 [FSMs in Verilog]: https://inst.eecs.berkeley.edu/~eecs151/fa22/files/verilog/verilog_fsm.pdf
 [Ready-Valid Interfaces]: https://inst.eecs.berkeley.edu/~eecs151/fa22/files/verilog/ready_valid_interface.pdf
 [IEEE Std 1364-2005]: https://ieeexplore.ieee.org/document/1620780
+
+Алати:
+* [OpenLANE](https://www.youtube.com/watch?v=d0hPdkYg5QI)
+
+
+https://github.com/iic-jku/iic-osic
+
+https://github.com/efabless/openlane2
+
+https://github.com/efabless/openlane
+
+https://github.com/The-OpenROAD-Project/OpenLane
+
+Docker container...
+
 
 ## Симулатори
 
@@ -163,22 +183,40 @@ Verilog:
 * Било који добар чланак: 30 поена
 * Било који сјајан чланак: 60 поена
 
+-->
+
 ## Оцењивање
 
-* предиспитне обавезе: 45 поена
-* испит у виду пројекта: 55 поена
+* предиспитне обавезе: 30 поена
+* испит у виду пројекта: 70 поена
 
 ### Предиспитне обавезе
 
 Предиспитне обавезе се састоје од:
-* два, односно три колоквијума - укупно 45 поена
+* једног колоквијума који се ради на рачунару - укупно 30 поена
 * пројекат - 55 поена
 
 Коначни [резултати](https://docs.google.com/spreadsheets/d/18icgzX1uaRZ6Xb-33G8LwNwAG0yaKyHIoZRkCruGwlI) колоквијума из дигиталне електронике.
 
 Анализа решења задатака са другог колоквијума може се наћи [овде](https://youtu.be/6cKYg9bxtGE?t=90).
 
+
+
+
+
+
 ### Пројекти
+
+* Nexys-2 сат, штоперица, тајмер, и сличне стварчице
+* Nexys-2 reaction game
+* Nexys-2 тетрис на седмосегментном дисплеју
+* Nexys-2 конекција преко PS/2 или VGA или RS232, шта год...
+* PYNQ Z1 - FPGA Labs EECS151
+*
+
+
+
+
 
 Пројекти се раде појединачно или у пару. Сваки пројекат се састоји обично из четири дела:
 * **теоретске основе** (10 поена) -- извештај који садржи шему на нивоу логичких кола и блокова, као и њену свеобухватну анализу
@@ -232,7 +270,7 @@ Verilog:
 
 ### Испит
 
-Испит се полаже у виду завршног пројекта који се ради појединачно или у пару и који носи највише 55 поена.
+Испит се полаже у виду завршног пројекта који се ради појединачно или у пару и који носи највише 75 поена.
 
 -->
 
