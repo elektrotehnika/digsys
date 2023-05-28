@@ -10,31 +10,11 @@
 
 Веома користан Intel-ов дводневни (деветочасовни) интернет курс [Verilog HDL Advanced](https://learning.intel.com/Developer/learn/course/external/view/classroom/861/verilog-hdl-advanced) одржава се једном месечно и препоручује се свим студентима.
 
-<!--
-
-<details markdown='block'>
-<summary>Претходна обавештења</summary>
-
-Догађај за студенте под називом [Seeds for the future 2022](https://www.huawei.com/minisite/seeds-for-the-future/index.html) који организује Huawei биће ове године одржан преко интернета у периоду од 14. до 21. новембра. Више о самом догађају можете видети у [пропратној презентацији](./Huawei/SftF2022.pdf), а заинтересовани студенти се могу пријавити путем [формулара](https://forms.gle/WtaFBXmT4eu6vedu7) до понедељка 7. новембра 2022. године.
-
-[Путеви каријере у индустрији чипова](https://www.elfak.ni.ac.rs/informacije/novosti-i-obavestenja/prvi-put-u-evropi-putevi-karijere-u-industriji-cipova-na-elektronskom-fakultetu-u-nisu) ([GSA WLI Pathways Conference – Serbia](https://designthesolution.org/gsa-wli-pathways-conference-serbia)) конференција одржана је 14. новембра на Електронском факултету у Нишу.
-
-Телеком Србија у оквиру свог IoT лаба организује [стручне праксе за школску 2022/23. годину](https://mts.rs/Poslovni/IoT/lab), а студенти Факултета инжењерских наука по први пут ове године могу да узму учешће.
-
-Полунадокнада предавања из дигиталне електронике одржана је у петак 9. децембра 2022. године од око 16:30 у учионици Д-66.
-
-Предавања и вежбе из Дигиталне електронике у понедељак 3. октобра 2022. године нису одржана због одсуства предметног наставника.
-
-</details>
-
--->
-
 ## Настава
 
 ### Слајдови
 
-<details markdown='block'>
-<summary>Предавања</summary>
+Предавања:
 * DigSys слајдови 1: [EECS151 fa21l1][EECS151_fa21l1-1up]
 * DigSys слајдови 2: [EECS151 fa21l2][EECS151_fa21l2-1up]
 * DigSys слајдови 3: [EECS151 fa21l3][EECS151_fa21l3-1up]
@@ -45,7 +25,6 @@
 * DigSys слајдови 8: ~~[EECS151 fa21l8][EECS151_fa21l8-1up]~~
 * DigSys слајдови 9: ~~[EECS151 fa21l9][EECS151_fa21l9-1up]~~
 * DigSys слајдови 10: [EECS151 fa21l10][EECS151_fa21l10-1up]
-</details>
 
 [EECS151_fa21l1-1up]: https://inst.eecs.berkeley.edu/~eecs151/fa21/files/lectures/Lecture1-Intro-1up.pdf
 [EECS151_fa21l2-1up]: https://inst.eecs.berkeley.edu/~eecs151/fa21/files/lectures/Lecture2-Design-1up.pdf
@@ -63,6 +42,7 @@
 На енглеском:
 * UC Berkeley: EECS151 - [јесен 2019.](https://www.youtube.com/playlist?list=PLW6lmkTQ3FQVyMbSHpXyaGK9GvDEsr0mm), [пролеће 2020.](https://www.youtube.com/playlist?list=PLW6lmkTQ3FQXQjShQivjgzkQ7pNLnmo-z), [пролеће 2022.](https://www.youtube.com/playlist?list=PLkFD6_40KJIxrKaukIqIZMrtSRf6hNdPp) и [јесен 2022.](https://www.youtube.com/playlist?list=PLkFD6_40KJIzF1rzQ5Sp97Kv7wHhth7YK)
 * BIU: [83-612](https://www.youtube.com/playlist?list=PLZU5hLL_713x0_AV_rVbay0pWmED7992G)
+* Intel Learning - [Verilog HDL Advanced](https://learning.intel.com/Developer/learn/course/external/view/classroom/861/verilog-hdl-advanced) (два дана сваког месеца)
 
 ### Остали корисни курсеви
 
@@ -70,7 +50,6 @@
 * [Berkeley EECS241](https://inst.eecs.berkeley.edu/~ee241b) - [пролеће 2020.](https://inst.eecs.berkeley.edu/~ee241b/sp20) и [пролеће 2021.](https://inst.eecs.berkeley.edu/~ee241b/sp21)
 * [Berkeley EECS251](https://inst.eecs.berkeley.edu/~eecs251b) - [пролеће 2022.](https://inst.eecs.berkeley.edu/~eecs251b/sp22) и [пролеће 2023.](https://inst.eecs.berkeley.edu/~eecs251b/sp23)
 * ETH Zürich [Digitaltechnik](http://safari.ethz.ch/digitaltechnik) - [пролеће 2022.](https://www.youtube.com/playlist?list=PL5Q2soXY2Zi97Ya5DEUpMpO2bbAoaG7c6), [пролеће 2021.](https://www.youtube.com/playlist?list=PL5Q2soXY2Zi_uej3aY39YB5pfW4SJ7LlN), [пролеће 2020.](https://www.youtube.com/playlist?list=PL5Q2soXY2Zi_FRrloMa2fUYWPGiZUBQo2), итд.
-* Intel Learning - [Verilog HDL Advanced](https://learning.intel.com/Developer/learn/course/external/view/classroom/861/verilog-hdl-advanced) (два дана сваког месеца)
 
 На српском:
 * [ЕТФ Београд - Пројектовање интегрисаних кола](http://tnt.etf.bg.ac.rs/~oe3upk)
@@ -102,6 +81,7 @@ Verilog:
 * [Коначне машине стања (КМС) у Verilog-у][FSMs in Verilog]
 * [Ready-Valid сучеља][Ready-Valid Interfaces]
 * [IEEE 1364-2005 Verilog HDL стандард][IEEE Std 1364-2005]
+* [lowRISC](https://lowrisc.org)'s [SystemVerilog стилски водичи][SystemVerilog Style Guides]
 
 [Verilog Primer Slides]: https://inst.eecs.berkeley.edu/~eecs151/fa22/files/verilog/Verilog_Primer_Slides.pdf
 [wire vs reg]: https://inst.eecs.berkeley.edu/~eecs151/fa22/files/verilog/wire_vs_reg.pdf
@@ -109,6 +89,7 @@ Verilog:
 [FSMs in Verilog]: https://inst.eecs.berkeley.edu/~eecs151/fa22/files/verilog/verilog_fsm.pdf
 [Ready-Valid Interfaces]: https://inst.eecs.berkeley.edu/~eecs151/fa22/files/verilog/ready_valid_interface.pdf
 [IEEE Std 1364-2005]: https://ieeexplore.ieee.org/document/1620780
+[SystemVerilog Style Guides]: https://github.com/lowRISC/style-guides
 
 ## Слободни EDA алати:
 
@@ -126,26 +107,20 @@ Verilog:
 Интернет симулатори:
 * [EDA Playground](https://www.edaplayground.com)
 
+Бесплатне верзије комерцијалних симулатора:
+* [ModelSim-Intel® FPGAs Standard/Starter Edition](https://www.intel.com/content/www/us/en/software-kit/750666)
+
 ## Домаћи задаци
 
 * [нулти домаћи задатак](./dz/dz0.md)
 * први домаћи задатак
 
-<!--
-* [нулти домаћи задатак](./dz/dz0.md)
-* [први домаћи задатак](./dz/dz1.md)
-* [други домаћи задатак](./dz/dz2.md)
-* [трећи домаћи задатак](./dz/dz3.md)
-* [четврти домаћи задатак](./dz/dz4.md)
-* [пети домаћи задатак](./dz/dz5.md)
-* [шести домаћи задатак](./dz/dz6.md)
-* [седми домаћи задатак](./dz/dz7.md)
-* [осми домаћи задатак](./dz/dz8.md)
-* [девети домаћи задатак](./dz/dz9.md)
 
 ## Семинарски радови
 
 За случај да више студената ради једну тему, број бодова који добија сваки од студената се дели са бројем студената.
+
+<!--
 
 Неке од потенцијалних тема за семинарске радове:
 * [Дигитални бафер](https://sr.wikipedia.org/wiki/Дигитални_бафер) - урађено
