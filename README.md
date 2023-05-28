@@ -1,15 +1,14 @@
-# Пројектовање дигиталних система (Digital systems design)
+# Пројектовање дигиталних система
+# (енг. Digital systems design)
 
 Летњи семестар школске 2022./2023. године
 * наставник: Владимир М. Миловановић
 
 ## Обавештења
 
-Уместо часова предавања у понедељак 22. маја 2023. године биће одржани часови консултација с почетком у 15:15.
+Колоквијум ће бити одржан у понедељак 29. маја 2023. године с почеком у 16 часова у учионици Д-66.
 
-Колоквијум ће бити одржан у понедељак 29. маја 2023. године у поподневним часовима у учионици Д-66.
-
-Веома користан Intel-ов дводневни (деветочасовни) интернет курс [Verilog HDL Advanced](https://learning.intel.com/Developer/learn/course/external/view/classroom/861/verilog-hdl-advanced) биће одржан у среду 26. и четвртак 27. априла, као и у уторак 23. и среду 24. маја 2023. године. Препоручује се свим студентима.
+Веома користан Intel-ов дводневни (деветочасовни) интернет курс [Verilog HDL Advanced](https://learning.intel.com/Developer/learn/course/external/view/classroom/861/verilog-hdl-advanced) одржава се једном месечно и препоручује се свим студентима.
 
 <!--
 
@@ -66,14 +65,12 @@
 * BIU: [83-612](https://www.youtube.com/playlist?list=PLZU5hLL_713x0_AV_rVbay0pWmED7992G)
 
 ### Остали корисни курсеви
+
 На енглеском:
 * [Berkeley EECS241](https://inst.eecs.berkeley.edu/~ee241b) - [пролеће 2020.](https://inst.eecs.berkeley.edu/~ee241b/sp20) и [пролеће 2021.](https://inst.eecs.berkeley.edu/~ee241b/sp21)
 * [Berkeley EECS251](https://inst.eecs.berkeley.edu/~eecs251b) - [пролеће 2022.](https://inst.eecs.berkeley.edu/~eecs251b/sp22) и [пролеће 2023.](https://inst.eecs.berkeley.edu/~eecs251b/sp23)
-
-
-Види додај и ове швајцарце...
-https://safari.ethz.ch/digitaltechnik/spring2021/doku.php
-
+* ETH Zürich [Digitaltechnik](http://safari.ethz.ch/digitaltechnik) - [пролеће 2022.](https://www.youtube.com/playlist?list=PL5Q2soXY2Zi97Ya5DEUpMpO2bbAoaG7c6), [пролеће 2021.](https://www.youtube.com/playlist?list=PL5Q2soXY2Zi_uej3aY39YB5pfW4SJ7LlN), [пролеће 2020.](https://www.youtube.com/playlist?list=PL5Q2soXY2Zi_FRrloMa2fUYWPGiZUBQo2), итд.
+* Intel Learning - [Verilog HDL Advanced](https://learning.intel.com/Developer/learn/course/external/view/classroom/861/verilog-hdl-advanced) (два дана сваког месеца)
 
 На српском:
 * [ЕТФ Београд - Пројектовање интегрисаних кола](http://tnt.etf.bg.ac.rs/~oe3upk)
@@ -113,20 +110,16 @@ Verilog:
 [Ready-Valid Interfaces]: https://inst.eecs.berkeley.edu/~eecs151/fa22/files/verilog/ready_valid_interface.pdf
 [IEEE Std 1364-2005]: https://ieeexplore.ieee.org/document/1620780
 
-Алати:
-* [OpenLANE](https://www.youtube.com/watch?v=d0hPdkYg5QI)
+## Слободни EDA алати:
 
-
-https://github.com/iic-jku/iic-osic
-
-https://github.com/efabless/openlane2
-
-https://github.com/efabless/openlane
-
-https://github.com/The-OpenROAD-Project/OpenLane
-
-Docker container...
-
+Корисни слободни [EDA](https://en.wikipedia.org/wiki/Electronic_design_automation) алати:
+* [Macro Hardening and SoC Integration in OpenLANE](https://www.youtube.com/watch?v=d0hPdkYg5QI)
+* [The OpenROAD Project](https://theopenroadproject.org) - [OpenLane](https://github.com/The-OpenROAD-Project/OpenLane)
+* [Efabless](https://efabless.com) - [OpenLane](https://github.com/efabless/openlane)
+* [Efabless](https://github.com/efabless) - [OpenLane2](https://github.com/efabless/openlane2)
+* [Efabless's Docker Container](https://hub.docker.com/r/efabless/foss-asic-tools) - [FOSS-ASIC-TOOLS](https://github.com/efabless/foss-asic-tools)
+* [Harald Pretl's Docker Container](https://hub.docker.com/r/hpretl/iic-osic-tools) - [IIC-OSIC-TOOLS](https://github.com/iic-jku/iic-osic-tools)
+* [JKU IIC Open-Source IC (OSIC) Multitool](https://github.com/iic-jku/osic-multitool)
 
 ## Симулатори
 
@@ -139,7 +132,6 @@ Docker container...
 * први домаћи задатак
 
 <!--
-
 * [нулти домаћи задатак](./dz/dz0.md)
 * [први домаћи задатак](./dz/dz1.md)
 * [други домаћи задатак](./dz/dz2.md)
@@ -184,7 +176,6 @@ Docker container...
 * [Дигитални синтисајзер](https://en.wikipedia.org/wiki/Digital_synthesizer)
 * Било који добар чланак: 30 поена
 * Било који сјајан чланак: 60 поена
-
 -->
 
 ## Оцењивање
@@ -196,29 +187,19 @@ Docker container...
 
 Предиспитне обавезе се састоје од:
 * једног колоквијума који се ради на рачунару - укупно 30 поена
-* пројекат - 55 поена
 
-Коначни [резултати](https://docs.google.com/spreadsheets/d/18icgzX1uaRZ6Xb-33G8LwNwAG0yaKyHIoZRkCruGwlI) колоквијума из дигиталне електронике.
-
-Анализа решења задатака са другог колоквијума може се наћи [овде](https://youtu.be/6cKYg9bxtGE?t=90).
-
-
-
-
-
+Прелиминарни [резултати]() колоквијума из пројектовања дигиталних система.
 
 ### Пројекти
 
+Пројекти се раде појединачно или у пару. Неки предлози пројеката:
 * Nexys-2 сат, штоперица, тајмер, и сличне стварчице
 * Nexys-2 reaction game
 * Nexys-2 тетрис на седмосегментном дисплеју
 * Nexys-2 конекција преко PS/2 или VGA или RS232, шта год...
 * PYNQ Z1 - FPGA Labs EECS151
-*
 
-
-
-
+<!--
 
 Пројекти се раде појединачно или у пару. Сваки пројекат се састоји обично из четири дела:
 * **теоретске основе** (10 поена) -- извештај који садржи шему на нивоу логичких кола и блокова, као и њену свеобухватну анализу
@@ -270,19 +251,15 @@ Docker container...
 
 Одбрана пројеката за све студенте који су испит из Дигиталне електронике пријавили у јануарском испитном року биће одржана у четвртак 9. фебруара 2023. године с почетком у 11:15 у учионици 119, како би на захтев факултетског руководства оцене биле унете што је могуће раније. Одбрана пројеката за студенте који су испит пријавили у фебруарском испитном року биће одржана највероватније у петак 17. фебруара или у суботу 18. фебруара 2023. године.
 
-### Испит
-
-Испит се полаже у виду завршног пројекта који се ради појединачно или у пару и који носи највише 75 поена.
-
 -->
 
 ### Испит
 
-Испит се полаже у виду завршног пројекта.
+Испит се полаже у виду завршног пројекта који се ради појединачно или у пару и који носи 70 поена.
 
 ### Оцењивање
 
-Оцена (100 поена): испит (30 поена) + ПИО (70 поена)
+Оцена (100 поена): ПИО (30 поена) + испит/пројекат (70 поена)
 * **5**: од 0 до 50 поена
 * **6**: од 51 до 60 поена
 * **7**: од 61 до 70 поена
