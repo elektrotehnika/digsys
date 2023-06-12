@@ -72,7 +72,10 @@
 
 Корисне странице:
 * [ASIC-World](http://www.asic-world.com/verilog)
+* [ChipVerify](https://www.chipverify.com/verilog/verilog-tutorial)
 * [NAND-LAND](https://nandland.com/learn-verilog)
+
+### Verilog HDL
 
 Verilog:
 * [Verilog буквар][Verilog Primer Slides]
@@ -90,6 +93,14 @@ Verilog:
 [Ready-Valid Interfaces]: https://inst.eecs.berkeley.edu/~eecs151/fa22/files/verilog/ready_valid_interface.pdf
 [IEEE Std 1364-2005]: https://ieeexplore.ieee.org/document/1620780
 [SystemVerilog Style Guides]: https://github.com/lowRISC/style-guides
+
+#### Задаци за вежбање
+
+[HDLBits - Verilog Practice][HDLBits]
+[QuickSilicon][QuickSilicon]
+
+[HDLBits]: https://hdlbits.01xz.net
+[QuickSilicon]: https://quicksilicon.in
 
 ## Слободни EDA алати:
 
@@ -163,7 +174,7 @@ Verilog:
 Предиспитне обавезе се састоје од:
 * једног колоквијума који се ради на рачунару - укупно 30 поена
 
-Прелиминарни [резултати]() колоквијума из пројектовања дигиталних система.
+Прелиминарни [резултати](https://docs.google.com/spreadsheets/d/151u2lud_yBsg3GKb-TvSqA9xfILB1DozwaVJ9unwJBI) колоквијума из пројектовања дигиталних система.
 
 ### Пројекти
 
