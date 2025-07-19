@@ -43,6 +43,7 @@
 
 На енглеском:
 * UC Berkeley: EECS151 - [јесен 2019.](https://www.youtube.com/playlist?list=PLW6lmkTQ3FQVyMbSHpXyaGK9GvDEsr0mm), [пролеће 2020.](https://www.youtube.com/playlist?list=PLW6lmkTQ3FQXQjShQivjgzkQ7pNLnmo-z), [пролеће 2022.](https://www.youtube.com/playlist?list=PLkFD6_40KJIxrKaukIqIZMrtSRf6hNdPp) и [јесен 2022.](https://www.youtube.com/playlist?list=PLkFD6_40KJIzF1rzQ5Sp97Kv7wHhth7YK)
+* UC Berkeley: EECS251 - [пролеће 2022.](https://www.youtube.com/playlist?list=PLXu4ygwFR79yQLujYP3HVYwzhMlQh1lNP),
 * BIU: [83-612](https://www.youtube.com/playlist?list=PLZU5hLL_713x0_AV_rVbay0pWmED7992G)
 * Intel Learning - [Verilog HDL Advanced](https://learning.intel.com/Developer/learn/course/external/view/classroom/861/verilog-hdl-advanced) (два дана сваког месеца)
 
