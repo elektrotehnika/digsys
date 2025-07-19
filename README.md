@@ -51,7 +51,7 @@
 
 На енглеском:
 * [Berkeley EECS241](https://inst.eecs.berkeley.edu/~ee241b) - [пролеће 2020.](https://inst.eecs.berkeley.edu/~ee241b/sp20) и [пролеће 2021.](https://inst.eecs.berkeley.edu/~ee241b/sp21)
-* [Berkeley EECS251](https://inst.eecs.berkeley.edu/~eecs251b) - [пролеће 2022.](https://inst.eecs.berkeley.edu/~eecs251b/sp22) и [пролеће 2023.](https://inst.eecs.berkeley.edu/~eecs251b/sp23)
+* [Berkeley EECS251](https://inst.eecs.berkeley.edu/~eecs251b) - [пролеће 2022.](https://inst.eecs.berkeley.edu/~eecs251b/sp22), [пролеће 2023.](https://inst.eecs.berkeley.edu/~eecs251b/sp23), и [пролеће 2024.](https://inst.eecs.berkeley.edu/~eecs251b/sp24)
 * ETH Zürich [Digitaltechnik](http://safari.ethz.ch/digitaltechnik) - [пролеће 2022.](https://www.youtube.com/playlist?list=PL5Q2soXY2Zi97Ya5DEUpMpO2bbAoaG7c6), [пролеће 2021.](https://www.youtube.com/playlist?list=PL5Q2soXY2Zi_uej3aY39YB5pfW4SJ7LlN), [пролеће 2020.](https://www.youtube.com/playlist?list=PL5Q2soXY2Zi_FRrloMa2fUYWPGiZUBQo2), итд.
 
 На српском:
